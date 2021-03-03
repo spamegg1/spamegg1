@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contributor to [Futurecoder](https://futurecoder.io)
+[Contributor](https://github.com/alexmojaki/futurecoder) to [Futurecoder](https://futurecoder.io)
 
 Member of [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-I'm a Tutor on [OSSU](https://github.com/ossu/computer-science) [Discord channel!](https://discord.gg/5pUhfpX) Come and ask me code questions!
+I'm a Tutor on OSSU [Discord channel!](https://discord.gg/5pUhfpX) Come and ask me code questions!
+
+I [review](https://github.com/spamegg1/reviews) online courses.
 
 [![spamegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=spamegg1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
