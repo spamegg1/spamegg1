@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contributor to [Futurecoder](https://futurecoder.io)
+
+Member of [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+
+I'm a Tutor on [OSSU](https://github.com/ossu/computer-science) [Discord channel!](https://discord.gg/5pUhfpX) Come and ask me code questions!
+
 [![spamegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=spamegg1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
