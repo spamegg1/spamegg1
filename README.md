@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Contributor](https://github.com/alexmojaki/futurecoder) to [Futurecoder](https://futurecoder.io)
+[Collaborator](https://github.com/alexmojaki/futurecoder) to [Futurecoder](https://futurecoder.io)
 
 Member of [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
