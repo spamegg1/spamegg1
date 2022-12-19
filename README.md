@@ -25,4 +25,4 @@ I [review](https://github.com/spamegg1/reviews) online courses.
 
 [![spamegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=spamegg1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact&theme=synthwave)
