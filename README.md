@@ -23,12 +23,6 @@ I'm a Tutor on OSSU [Discord channel!](https://discord.gg/5pUhfpX) Come and ask 
 
 I [review](https://github.com/spamegg1/reviews) online courses.
 
-<<<<<<< HEAD
 [![spamegg's GitHub stats](https://github-readme-stats-spamegg1.vercel.app/api?username=spamegg1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-spamegg1.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact&theme=synthwave)
-=======
-[![spamegg's GitHub stats](https://github-readme-stats.vercel.app/api?username=spamegg1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact&theme=synthwave)
->>>>>>> main
