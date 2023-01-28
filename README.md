@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:computer: [Collaborator](https://github.com/alexmojaki/futurecoder/graphs/contributors) to [Futurecoder](https://futurecoder.io)
+:computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
 💬 Ask me about: math or code questions!
 
@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on: my own Math + CS curriculum.
 
-🌱 I’m currently learning: lots of Scala libraries, especially [Doodle](https://github.com/creativescala/doodle).
+🌱 I’m currently learning: lots of Scala libraries, especially [Doodle](https://github.com/creativescala/doodle) and [Scala Native](https://scala-native.org/en/stable/).
 
 🤔 I’m looking for: suggestions with interesting and creative ideas to teach logic gates, ALU / CPU, assembly; something simpler than [Nand2Tetris](https://www.nand2tetris.org/).
 
