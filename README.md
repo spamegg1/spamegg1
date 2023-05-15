@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.*** - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
+
 :computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
 💬 Ask me about: math or code questions!
