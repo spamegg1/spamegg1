@@ -6,7 +6,7 @@
 
 💬 Ask me about: math or code questions!
 
-📫 How to reach me: `spamegg#3510` on Discord.
+📫 How to reach me: `spamegg#3510` on Discord, or [on Slack](https://join.slack.com/t/spamegg/shared_invite/zt-1vhzofzrl-ucBjeQEQkl9Ol3wpvL9VPw)
 
 ⚡ Fun fact: I [review](https://github.com/spamegg1/reviews) online courses.
 
