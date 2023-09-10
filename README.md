@@ -18,6 +18,8 @@
 
 🤔 I’m looking for: suggestions with interesting and creative ideas to teach logic gates, ALU / CPU, assembly; something simpler than [Nand2Tetris](https://www.nand2tetris.org/).
 
+:desktop_computer: I use ![Mint](mint.svg)
+
 ![spamegg's GitHub stats](https://github-readme-stats-spamegg1.vercel.app/api?username=spamegg1&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats-spamegg1.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact&theme=synthwave)
