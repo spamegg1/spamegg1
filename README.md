@@ -1,10 +1,12 @@
-### Hi there 👋
+![TuxCoding](tux.gif)
+
+## Hi there 👋
 
 > ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.*** - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
 
 [Bjarne Stroustrup on the importance of Mathematics and Computer Science fundamentals](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 
-:christmas_tree: Currently [doing](https://github.com/spamegg1/advent-of-code-2023-scala) [Advent of Code 2023](https://adventofcode.com/2023/) in Scala, join me!
+:christmas_tree: Currently [doing](https://github.com/spamegg1/advent-of-code-2023-scala) [Advent of Code 2023](https://adventofcode.com/2023/) [in Scala](https://scalacenter.github.io/scala-advent-of-code/2023/), join me!
 
 :computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
