@@ -6,7 +6,7 @@
 
 [Bjarne Stroustrup on the importance of Mathematics and Computer Science fundamentals](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 
-:christmas_tree: Currently [doing](https://github.com/spamegg1/advent-of-code-2023-scala) [Advent of Code 2023](https://adventofcode.com/2023/) [in Scala](https://scalacenter.github.io/scala-advent-of-code/2023/), join me!
+:christmas_tree: Happy New Year! Have an awesome 2024 full of learning!
 
 :computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
