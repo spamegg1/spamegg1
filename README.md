@@ -10,6 +10,8 @@
 
 :computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
+:brain: Check out my [Elements of Abstract Thinking](https://github.com/spamegg1/abstract-thinking)
+
 💬 Ask me about: math or code questions!
 
 📫 How to reach me: `spamegg1` on Discord, or [on Slack](https://join.slack.com/t/spamegg/shared_invite/zt-1vhzofzrl-ucBjeQEQkl9Ol3wpvL9VPw), or [on Matrix](https://matrix.to/#/!GQFJgtvxFByBVixTAi:matrix.org?via=matrix.org)
