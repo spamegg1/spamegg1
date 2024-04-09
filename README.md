@@ -6,8 +6,6 @@
 
 [Bjarne Stroustrup on the importance of Mathematics and Computer Science fundamentals](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 
-:christmas_tree: Happy New Year! Have an awesome 2024 full of learning!
-
 :computer: I contributed a lot to [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
 :brain: Check out my [Elements of Abstract Thinking](https://github.com/spamegg1/abstract-thinking)
