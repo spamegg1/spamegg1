@@ -1,6 +1,6 @@
-![TuxCoding](tux.gif)
+# Hi there 👋
 
-## Hi there 👋
+![TuxCoding](tux.gif)
 
 > ***It soon became clear that the unconscious instincts for logic and language which had enabled me to succeed were not shared by the large majority of my students.*** - Susanna Epp (author of [Discrete Mathematics with Applications, 5th edition](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp-ebook/dp/B07M87BWRC))
 
@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: I [review](https://github.com/spamegg1/reviews) online courses.
 
-🔭 I’m currently working on: my own Math + CS curriculum.
+🔭 I’m currently working on: my own combined Math + CS curriculum, focusing on deep connections and foundations, ideas, history, abstract thinking and problem solving.
 
 🌱 I’m currently learning: lots of Scala libraries, especially [Doodle](https://github.com/creativescala/doodle) and [Scala Native](https://scala-native.org/en/stable/).
 
@@ -27,3 +27,39 @@
 ![spamegg's GitHub stats](https://github-readme-stats-spamegg1.vercel.app/api?username=spamegg1&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats-spamegg1.vercel.app/api/top-langs/?username=spamegg1&count_private=true&layout=compact&theme=synthwave)
+
+## 🚀🚀🚀 Math + CS curriculum progress update 🚀🚀🚀
+
+(Apologies that I'm not able to share more. It's private for now! Imagine a mad scientist working in a cave... 👨‍🔬🕯️🦇🌑)
+
+Work started January 2023. Expected finish 2033-2038, or when I 💀⚰️🪦
+
+***Year 1 (2023):*** Very productive!
+
+First few years of "producing a lot of useful by-products."
+
+- Wrote a complete roadmap. *I know exactly what I'm doing!*
+
+- Gathered a ton of materials, books, notes, bookmarks, videos that will take me years to distill into the perfect mixture.
+
+- Finished solutions to [Epp's Discrete Math book](https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions/) which will form the backbone of the curriculum. (56K+ lines of LaTeX code, over 1000 pages of PDF when rendered.)
+
+- Wrote a ton of code: 613 files, 260K+ lines of code. Roughly corresponds to Intro CS + Core Programming. Even [contributed to open source a bit.](https://github.com/scala-native/scala-native/pull/3396)
+
+- Came up with [Abstract thinking](https://github.com/spamegg1/abstract-thinking) which will play a big role as another backbone. *Highly experimental!* 🧪
+
+***Year 2 (2024):*** (June) Progress somewhat stalled. Struggling with motivation 😥.
+
+It's too hot and nice outside! 🌅🏖️🏞️ I need to replace thermal paste on my CPU.
+
+But I'm constantly coming up with new awesome ideas! [Videos on this channel](https://www.youtube.com/@benjaminkeep/videos) are god-tier and exactly what I was thinking about...
+
+- Studying a lot of low-level stuff. C with [K.N. King's book](http://knking.com/books/c2/index.html) and Rust with [Rust Foundation book](https://doc.rust-lang.org/stable/book/).
+
+Useful byproducts continue:
+
+- More low-level with [Modern Systems Programming](https://github.com/spamegg1/modern-systems-scala-native).
+
+- and progress on [Abstract thinking](https://github.com/spamegg1/abstract-thinking)
+
+- passing unbearable hot summer days by solving [Advent of Code](https://adventofcode.com/) and thinking about how to teach the subtleties of [problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc).
