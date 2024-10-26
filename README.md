@@ -65,3 +65,5 @@ Useful byproducts continue:
 - passing unbearable hot summer days by solving [Advent of Code](https://adventofcode.com/) and thinking about how to teach the subtleties of [problem solving](https://www.youtube.com/watch?v=6DxTQiJuAoc).
 
 - *October 2024:* work started on [Tarski's world](https://github.com/spamegg1/tarski/). Turns out parsing first-order logic is hard! 😆
+
+- Started learning [Lean](https://lean-lang.org) for coding proofs.
