@@ -18,7 +18,7 @@
 
 🔭 I’m currently working on: my own combined Math + CS curriculum, focusing on deep connections and foundations, ideas, history, abstract thinking and problem solving.
 
-🌱 I’m currently learning: lots of Scala libraries, especially [Doodle](https://github.com/creativescala/doodle) and [Scala Native](https://scala-native.org/en/stable/).
+🌱 I’m currently learning: formalizing math in [Lean4](https://lean-lang.org/)
 
 🤔 I’m looking for: suggestions with interesting and creative ideas to teach logic gates, ALU / CPU, assembly; something simpler than [Nand2Tetris](https://www.nand2tetris.org/).
 
@@ -67,3 +67,6 @@ Useful byproducts continue:
 - *October 2024:* work started on [Tarski's world](https://github.com/spamegg1/tarski/). Turns out parsing first-order logic is hard! 😆
 
 - Started learning [Lean](https://lean-lang.org) for coding proofs.
+
+***Year 3 (2025):*** I started work on a project for [an AI company](https://abaka.ai)
+in formalizing mathematics, so progress will be slower.
