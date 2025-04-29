@@ -68,4 +68,10 @@ Useful byproducts continue:
 
 - Started learning [Lean](https://lean-lang.org) for coding proofs.
 
-***Year 3 (2025):*** More formalizing mathematics in Lean4, so progress will be slower.
+***Year 3 (2025):***
+
+- *Jan - Mar 2025:* More formalizing mathematics in Lean4, so progress will be slower.
+- *April 2025*:
+  - Done with Lean for now. (It's highly unsuitable for the curriculum!)
+  - Teaching GPU programming is difficult; so I started contributing to a [GPU library](https://github.com/ComputeNode/cyfra/).
+  - I want to make a beginner-friendly GPU course based on it.
