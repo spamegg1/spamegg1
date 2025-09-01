@@ -21,6 +21,7 @@
 🔭 I’m currently working on: my own combined Math + CS curriculum, focusing on deep connections and foundations, ideas, history, abstract thinking and problem solving.
 
 🌱 I’m currently learning: some [GPU programming](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
+and [coding logic](https://github.com/gapt/gapt)
 
 🤔 I’m looking for: nothing at the moment! Still feel free to shoot any ideas my way!
 
@@ -78,3 +79,5 @@ Useful byproducts continue:
   - Teaching GPU programming is difficult; so I started contributing to a [GPU library](https://github.com/ComputeNode/cyfra/).
     - I want to make a beginner-friendly GPU course based on it.
 - *May - August 2025:* I will be doing [Google Summer of Code](https://summerofcode.withgoogle.com/) to contribute to the [GPU library](https://github.com/ComputeNode/cyfra/).
+- *September 2025:* GSoC is done! I'm working on Tarski again.
+  This time, using a [first order logic tool](https://github.com/gapt/gapt).
