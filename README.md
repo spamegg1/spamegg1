@@ -6,7 +6,8 @@
 
 [Bjarne Stroustrup on the importance of Mathematics and Computer Science fundamentals](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 
-:computer: I contributed a lot to [Cyfra](https://github.com/ComputeNode/cyfra/), [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
+:computer: I just released my first library, [Tarski](https://github.com/spamegg1/tarski).
+I also contributed a lot to [Cyfra](https://github.com/ComputeNode/cyfra/), [Futurecoder](https://futurecoder.io) and [OSSU CS](https://github.com/ossu/computer-science/), so check them out!
 
 :brain: Check out my [Elements of Abstract Thinking](https://github.com/spamegg1/abstract-thinking)
 
@@ -20,8 +21,7 @@
 
 🔭 I’m currently working on: my own combined Math + CS curriculum, focusing on deep connections and foundations, ideas, history, abstract thinking and problem solving.
 
-🌱 I’m currently learning: some [GPU programming](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
-and [coding logic](https://github.com/gapt/gapt)
+🌱 I’m currently learning: some CI/CD, publishing libraries, Github releases, website making.
 
 🤔 I’m looking for: nothing at the moment! Still feel free to shoot any ideas my way!
 
