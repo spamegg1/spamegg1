@@ -84,3 +84,9 @@ Useful byproducts continue:
 - *November 2025:* Tarski is almost finished! Working prototype:
 
 <https://github.com/user-attachments/assets/b6eb04ee-151d-46f3-9e47-ee536aaa79c6>
+
+- *December 2025*: The first version of Tarski is [released!](https://github.com/spamegg1/tarski)
+
+***Year 4 (2026):***
+
+Stay tuned!
