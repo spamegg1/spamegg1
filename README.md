@@ -11,6 +11,8 @@ I also contributed a lot to [Cyfra](https://github.com/ComputeNode/cyfra/), [Fut
 
 :brain: Check out my [Elements of Abstract Thinking](https://github.com/spamegg1/abstract-thinking)
 
+📚🔢📐 Check out my math solutions: [Epp](https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions/) and [Math for CS](https://github.com/spamegg1/Math-for-CS-solutions/)
+
 ✍️ My blog: [Spamegg's personal page](https://spamegg1.github.io)
 
 💬 Ask me about: math or code questions!
