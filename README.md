@@ -85,7 +85,7 @@ Useful byproducts continue:
   This time, using a [first order logic tool](https://github.com/gapt/gapt).
 - *November 2025:* Tarski is almost finished! Working prototype:
 
-<https://github.com/user-attachments/assets/b6eb04ee-151d-46f3-9e47-ee536aaa79c6>
+<https://github.com/user-attachments/assets/9d0c4ec9-49ba-4545-9f89-aff774e75c59>
 
 - *December 2025*: The first version of Tarski is [released!](https://github.com/spamegg1/tarski)
 
