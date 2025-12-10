@@ -83,9 +83,9 @@ Useful byproducts continue:
 - *May - August 2025:* I will be doing [Google Summer of Code](https://summerofcode.withgoogle.com/) to contribute to the [GPU library](https://github.com/ComputeNode/cyfra/).
 - *September 2025:* GSoC is done! I'm working on Tarski again.
   This time, using a [first order logic tool](https://github.com/gapt/gapt).
-- *November 2025:* Tarski is almost finished! Working prototype:
+- *November 2025:* Tarski is almost finished!
 
-<https://github.com/user-attachments/assets/9d0c4ec9-49ba-4545-9f89-aff774e75c59>
+<https://github.com/user-attachments/assets/3b1d3352-e1f1-436e-ac52-5110b62c98c3>
 
 - *December 2025*: The first version of Tarski is [released!](https://github.com/spamegg1/tarski) Now working on a [companion](https://github.com/spamegg1/tarski-examples) that uses it.
 
