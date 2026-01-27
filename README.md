@@ -91,4 +91,8 @@ Useful byproducts continue:
 
 ***Year 4 (2026):***
 
+- *January 2026:* The game mode for Tarski is finished:
+
+<https://github.com/user-attachments/assets/b9b08a2d-42dd-4ec4-882c-3fd1d41cf307>
+
 Stay tuned!
