@@ -95,4 +95,8 @@ Useful byproducts continue:
 
 <https://github.com/user-attachments/assets/b9b08a2d-42dd-4ec4-882c-3fd1d41cf307>
 
+- *April 2026:* Finished with Tarski and the companion repository for now.
+  All done! 1.0 released. Turning my attention to
+  [abstract thinking](https://github.com/spamegg1/abstract-thinking).
+
 Stay tuned!
