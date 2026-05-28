@@ -23,7 +23,7 @@ I also contributed a lot to [Cyfra](https://github.com/ComputeNode/cyfra/), [Fut
 
 🔭 I’m currently working on: my own combined Math + CS curriculum, focusing on deep connections and foundations, ideas, history, abstract thinking and problem solving.
 
-🌱 I’m currently learning: some CI/CD, publishing libraries, Github releases, website making.
+🌱 I’m currently learning: parallel programming (CPU + GPU).
 
 🤔 I’m looking for: nothing at the moment! Still feel free to shoot any ideas my way!
 
