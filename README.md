@@ -99,5 +99,6 @@ Useful byproducts continue:
   All done! 1.0 released.
 
 - *June 2026*: starting to work on a parallel programming intro course (CPU + GPU).
+- *July 2026*: Parallel progress stalled for now, working on abstract thinking.
 
 Stay tuned!
